@@ -36,7 +36,8 @@ The project’s Streamlit application acts as a simplified, interactive Redbus i
 - **Web Scraping**: `selenium`, `time`
 
 This project demonstrates practical expertise in web scraping, data storage, and application deployment for real-time data access, offering powerful capabilities in the area of data-driven transportation analysis.
-![Project Screenshot](D:\Project_RBus\Pro_img2.png)
+![IMAGE](images/Pro_img2.png)
+
 
 
 
